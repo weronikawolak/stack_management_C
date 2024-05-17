@@ -1,5 +1,5 @@
 # stack_management_C
-The program is written in C. It is designed to manage student data using a stack data structure.
+The program is written in C/C++. It is designed to manage student data using a stack data structure.
 It allows for adding, removing, searching, as well as saving and loading data from a file.
 
 Key functionalities of the program:
